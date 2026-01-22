@@ -1,4 +1,4 @@
-# 🛒 Online Shoppers Purchasing Intention – Marketing Optimization with AI
+# 🛒 Online Shoppers Purchase Prediction – Marketing Optimization with AI
 
 ## 📌 Project Overview
 This project explores and models online user behavior to predict purchasing intention and support the optimization of digital marketing campaigns. Using the Online Shoppers Purchasing Intention Dataset from the UCI Machine Learning Repository, we perform exploratory data analysis, statistical testing, and machine learning modeling to identify the factors that influence conversion.
