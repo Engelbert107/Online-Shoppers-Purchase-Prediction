@@ -20,12 +20,18 @@ The final output is a production-ready ML pipeline exposed via a FastAPI service
 
 ## 🔁 Machine Learning Lifecycle (Checklist)
 This project follows a complete, real-world ML workflow:
-- ✅ Business understanding & data exploration
-- ✅ Data validation & preprocessing
-- ✅ Feature engineering & MRMR selection
-- ✅ Model training & evaluation
-- ✅ Reproducible ML pipelines
-- ✅ Model packaging & versioning
+
+✅ Business understanding & data exploration
+
+✅ Data validation & preprocessing
+
+✅ Feature engineering & MRMR selection
+
+✅ Model training & evaluation
+
+✅ Reproducible ML pipelines
+
+✅ Model packaging & versioning
 
 ✅ FastAPI deployment
 
