@@ -4,7 +4,7 @@
 ## 📌 Project Overview
 This project analyzes and models online user behavior to predict purchasing intention and support the optimization of digital marketing campaigns.
 
-Using the Online Shoppers Purchasing Intention Dataset [Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)  (UCI Machine Learning Repository), the project:
+Using the [Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)  (UCI Machine Learning Repository), the project:
 - Reproduces the methodology of the original academic paper
 - Extends it with modern machine learning engineering best practices
 - Delivers an end-to-end ML system, from data analysis to API deployment
